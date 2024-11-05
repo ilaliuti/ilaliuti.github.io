@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilaliuti.github.io/HVE/sitemap_index.txt
+Sitemap: https://ilaliuti.github.io/HtR/sitemap_index.txt
+Sitemap: https://ilaliuti.github.io/LSi/sitemap_index.txt
+Sitemap: https://ilaliuti.github.io/xLw/sitemap_index.txt
